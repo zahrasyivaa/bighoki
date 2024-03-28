@@ -1,2 +1,0 @@
-# bighoki
-bighoki
